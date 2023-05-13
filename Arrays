@@ -1,0 +1,15 @@
+//coding ninjas
+// int findDuplicate(vector<int> &arr) 
+// {
+//     // Write your code here
+//     int sum = 0 ;
+//     int a = 0;
+//     for(int i = 0; i<arr.size(); i++){
+//         sum += arr[i];
+//     }
+//     for(int i=0; i<arr.size(); i++){
+//         a+=i;
+//     }
+	
+//     return sum-a;
+// }
